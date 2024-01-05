@@ -1,11 +1,12 @@
 repo_name: jadenblack/keycloak
 report_id: 987085f7067c6902140f229b2b5fe6da
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-14T17:38:44+00:00'
+timestamp: '2024-01-05T08:23:56+00:00'
 requested_by: mposolda
 provider: github
 branch: main
-detected_tools_count: 242
+detected_tools_count: 244
 tools:
 - name: Asciidoctor
   description: An open source, pure Ruby processor for converting AsciiDoc documents
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/2924/gvQpykZd_400x400.jpg
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/docs/documentation/tests/pom.xml
   detection_source: docs/documentation/tests/pom.xml
   last_updated_by: stianst
   last_updated_on: 2019-11-06 09:57:00.000000000 Z
@@ -27,6 +29,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/jadenblack/keycloak
   detection_source: Repo Metadata
 - name: Groovy
   description: A multi-faceted language for the Java platform
@@ -37,6 +40,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/997/default_7ff5fcd857f42ad25149f659693d8930bffddf14.png
+  detection_source_url: https://github.com/jadenblack/keycloak
   detection_source: Repo Metadata
 - name: Java
   description: A concurrent, class-based, object-oriented, language specifically designed
@@ -47,6 +51,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/jadenblack/keycloak
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -57,6 +62,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/jadenblack/keycloak
   detection_source: Repo Metadata
 - name: Mustache
   description: Logic-less templates
@@ -66,6 +72,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Templating Languages & Extensions
   image_url: https://img.stackshare.io/service/1142/197655.png
+  detection_source_url: https://github.com/jadenblack/keycloak
   detection_source: Repo Metadata
 - name: Rust
   description: A safe, concurrent, practical language
@@ -75,6 +82,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1070/v7txhrjp9pdqrkdtxxp0.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/testsuite/integration-arquillian/tests/base/src/test/resources/dockerClientTest/keycloak-docker-compose-yaml/docker-compose.yaml
   detection_source: testsuite/integration-arquillian/tests/base/src/test/resources/dockerClientTest/keycloak-docker-compose-yaml/docker-compose.yaml
   last_updated_by: Josh Cain
   last_updated_on: 2016-09-21 17:02:22.000000000 Z
@@ -86,6 +94,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/quarkus/tests/integration/src/main/resources/database/scripts/init-mariadb.sql
   detection_source: quarkus/tests/integration/src/main/resources/database/scripts/init-mariadb.sql
   last_updated_by: Dominik Guhr
   last_updated_on: 2022-07-28 11:00:11.000000000 Z
@@ -98,6 +107,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/jadenblack/keycloak
   detection_source: Repo Metadata
 - name: Apache FreeMarker
   description: A free Java-based template engine
@@ -108,6 +118,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Java Tools
   image_url: https://img.stackshare.io/service/4456/ymCgaIO0_400x400.jpg
+  detection_source_url: https://github.com/jadenblack/keycloak
   detection_source: Repo Metadata
 - name: Node.js
   description: A platform built on Chrome's JavaScript runtime for easily building
@@ -118,6 +129,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/js/apps/admin-ui/package.json
   detection_source: js/apps/admin-ui/package.json
   last_updated_by: Jon Koops
   last_updated_on: 2022-08-25 09:03:07.000000000 Z
@@ -157,6 +169,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/2773/JuTVEkWX_400x400.jpg
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/js/apps/keycloak-server/package.json
   detection_source: js/apps/keycloak-server/package.json
   last_updated_by: Jon Koops
   last_updated_on: 2022-11-15 15:42:38.000000000 Z
@@ -170,6 +183,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/2006/spring-framework-project-logo.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/adapters/oidc/spring-boot2/pom.xml
   detection_source: adapters/oidc/spring-boot2/pom.xml
   last_updated_by: Martin Bartoš
   last_updated_on: 2022-02-02 09:47:15.000000000 Z
@@ -182,6 +196,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Java Tools
   image_url: https://img.stackshare.io/service/2970/wBjKn0ol.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/quarkus/runtime/pom.xml
   detection_source: quarkus/runtime/pom.xml
   last_updated_by: Pedro Igor
   last_updated_on: 2020-05-18 22:48:13.000000000 Z
@@ -207,6 +222,7 @@ tools:
   category: Data Stores
   sub_category: Databases
   image_url: https://img.stackshare.io/service/3105/h2-logo_square_400x400.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/model/jpa/pom.xml
   detection_source: model/jpa/pom.xml
   last_updated_by: Hynek Mlnarik
   last_updated_on: 2020-10-30 11:32:15.000000000 Z
@@ -219,6 +235,7 @@ tools:
   category: Data Stores
   sub_category: Database Tools
   image_url: https://img.stackshare.io/service/1398/y1As8_s5_400x400.jpg
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/dependencies/server-all/pom.xml
   detection_source: dependencies/server-all/pom.xml
   last_updated_by: Stian Thorgersen
   last_updated_on: 2015-07-17 11:45:43.000000000 Z
@@ -231,6 +248,7 @@ tools:
   category: Data Stores
   sub_category: Databases
   image_url: https://img.stackshare.io/service/2445/ZKsJsucq_400x400.jpg
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/quarkus/tests/integration/pom.xml
   detection_source: quarkus/tests/integration/pom.xml
   last_updated_by: Pedro Igor
   last_updated_on: 2021-11-23 14:45:46.000000000 Z
@@ -243,6 +261,7 @@ tools:
   category: Data Stores
   sub_category: Databases
   image_url: https://img.stackshare.io/service/1615/mariadb-logo-400x400.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/testsuite/utils/pom.xml
   detection_source: testsuite/utils/pom.xml
   last_updated_by: Peter Zaoral
   last_updated_on: 2022-11-29 23:04:56.000000000 Z
@@ -254,6 +273,7 @@ tools:
   category: Data Stores
   sub_category: Databases
   image_url: https://img.stackshare.io/service/1027/sql_server.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/quarkus/tests/integration/pom.xml
   detection_source: quarkus/tests/integration/pom.xml
   last_updated_by: Alexander Schwartz
   last_updated_on: 2023-09-05 13:38:19.000000000 Z
@@ -265,6 +285,7 @@ tools:
   category: Data Stores
   sub_category: Databases
   image_url: https://img.stackshare.io/service/1025/logo-mysql-170x170.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/testsuite/utils/pom.xml
   detection_source: testsuite/utils/pom.xml
   last_updated_by: Stian Thorgersen
   last_updated_on: 2017-07-14 05:01:54.000000000 Z
@@ -276,6 +297,7 @@ tools:
   category: Data Stores
   sub_category: Databases
   image_url: https://img.stackshare.io/service/1028/ASOhU5xJ.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/testsuite/model/pom.xml
   detection_source: testsuite/model/pom.xml
   last_updated_by: Peter Zaoral
   last_updated_on: 2022-11-29 23:04:56.000000000 Z
@@ -287,6 +309,7 @@ tools:
   category: Data Stores
   sub_category: Database Tools
   image_url: https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/LICENSE.txt
   detection_source: LICENSE.txt
   last_updated_by: stianst
   last_updated_on: 2019-11-08 11:04:32.000000000 Z
@@ -299,6 +322,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Docker Registry
   image_url: https://img.stackshare.io/service/21672/default_0ad016ae73d6ad4ccc280555965665b100054a7e.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/testsuite/integration-arquillian/tests/base/src/test/resources/dockerClientTest/keycloak-docker-compose-yaml/docker-compose.yaml
   detection_source: testsuite/integration-arquillian/tests/base/src/test/resources/dockerClientTest/keycloak-docker-compose-yaml/docker-compose.yaml
   last_updated_by: Josh Cain
   last_updated_on: 2016-09-21 17:02:22.000000000 Z
@@ -354,6 +378,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Virtual Machine Platforms & Containers
   image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/jadenblack/keycloak
   detection_source: Repo Metadata
 - name: ESLint
   description: The fully pluggable JavaScript code quality tool
@@ -364,6 +389,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/js/package.json
   detection_source: js/package.json
   last_updated_by: Jon Koops
   last_updated_on: 2023-02-03 10:45:11.000000000 Z
@@ -375,6 +401,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Integrated Development Environment
   image_url: https://img.stackshare.io/service/1446/8cyY6D_m.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/adapters/oidc/spring-boot-adapter-core/pom.xml
   detection_source: adapters/oidc/spring-boot-adapter-core/pom.xml
   last_updated_by: Ryan Dawson
   last_updated_on: 2017-06-30 13:31:30.000000000 Z
@@ -386,6 +413,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/jadenblack/keycloak
   detection_source: Repo Metadata
 - name: GitHub Actions
   description: Automate your workflow from idea to production
@@ -395,6 +423,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/.github/workflows/ci.yml
   detection_source: ".github/workflows/ci.yml"
   last_updated_by: Miquel Simon
   last_updated_on: 2023-10-16 11:41:13.000000000 Z
@@ -406,6 +435,7 @@ tools:
   category: Application Hosting
   sub_category: Web Servers
   image_url: https://img.stackshare.io/service/3628/515GX-Cc_400x400.jpg
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/testsuite/integration-arquillian/tests/other/springboot-tests/pom.xml
   detection_source: testsuite/integration-arquillian/tests/other/springboot-tests/pom.xml
   last_updated_by: Aboullos
   last_updated_on: 2023-10-31 08:06:09.000000000 Z
@@ -417,6 +447,7 @@ tools:
   category: Application Hosting
   sub_category: Web Servers
   image_url: https://img.stackshare.io/service/2188/unnamed.jpg
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/adapters/oidc/adapter-core/pom.xml
   detection_source: adapters/oidc/adapter-core/pom.xml
   last_updated_by: Stian Thorgersen
   last_updated_on: 2015-07-17 11:45:43.000000000 Z
@@ -429,6 +460,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Testing Frameworks
   image_url: https://img.stackshare.io/service/2020/874086.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/adapters/oidc/adapter-core/pom.xml
   detection_source: adapters/oidc/adapter-core/pom.xml
   last_updated_by: Stian Thorgersen
   last_updated_on: 2015-07-17 11:45:43.000000000 Z
@@ -441,6 +473,7 @@ tools:
   category: Monitoring
   sub_category: Logging Tools
   image_url: https://img.stackshare.io/service/2804/Coralogix-log4j-integration.jpg
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/docs/documentation/tests/pom.xml
   detection_source: docs/documentation/tests/pom.xml
   last_updated_by: dependabot[bot]
   last_updated_on: 2022-01-12 11:08:09.000000000 Z
@@ -468,6 +501,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Testing Frameworks
   image_url: https://img.stackshare.io/service/2021/4y634TJm_400x400.jpg
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/adapters/oidc/spring-boot2/pom.xml
   detection_source: adapters/oidc/spring-boot2/pom.xml
   last_updated_by: Ryan Dawson
   last_updated_on: 2017-06-30 13:31:30.000000000 Z
@@ -479,6 +513,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Tools for GitHub
   image_url: https://img.stackshare.io/service/9827/octokit-dotnet_2.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/js/apps/keycloak-server/package.json
   detection_source: js/apps/keycloak-server/package.json
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-09-26 13:55:24.000000000 Z
@@ -504,6 +539,7 @@ tools:
   category: Monitoring
   sub_category: Log Management
   image_url: https://img.stackshare.io/service/2805/05518ecaa42841e834421e9d6987b04f_400x400.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/adapters/oidc/spring-security/pom.xml
   detection_source: adapters/oidc/spring-security/pom.xml
   last_updated_by: Scott Rossillo
   last_updated_on: 2015-04-21 16:18:56.000000000 Z
@@ -516,6 +552,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: JS Build Tools / JS Task Runners
   image_url: https://img.stackshare.io/service/21657/default_6d25db7b303e81b370f739f3ec38bf1d044091e0.jpg
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/themes/src/main/resources/theme/keycloak.v2/account/src/package.json
   detection_source: themes/src/main/resources/theme/keycloak.v2/account/src/package.json
   last_updated_by: Jon Koops
   last_updated_on: 2023-10-30 11:50:06.000000000 Z
@@ -528,6 +565,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/5326/6p1SNAJu.jpg
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/.github/snyk/.snyk
   detection_source: ".github/snyk/.snyk"
   last_updated_by: Bruno Oliveira da Silva
   last_updated_on: 2022-04-08 19:08:58.000000000 Z
@@ -540,6 +578,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: JS Build Tools / JS Task Runners
   image_url: https://img.stackshare.io/service/21547/default_1aeac791cde11ff66cc0b20dcc6144eeb185c905.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/js/apps/account-ui/package.json
   detection_source: js/apps/account-ui/package.json
   last_updated_by: Erik Jan de Wit
   last_updated_on: 2022-10-10 10:14:19.000000000 Z
@@ -551,6 +590,7 @@ tools:
   category: Application Hosting
   sub_category: Web Servers
   image_url: https://img.stackshare.io/service/3411/R_inOTNM_400x400.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/adapters/oidc/wildfly/wildfly-subsystem/pom.xml
   detection_source: adapters/oidc/wildfly/wildfly-subsystem/pom.xml
   last_updated_by: Peter Skopek
   last_updated_on: 2023-09-05 21:19:39.000000000 Z
@@ -577,6 +617,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/themes/src/main/resources/theme/keycloak/common/resources/package.json
   detection_source: themes/src/main/resources/theme/keycloak/common/resources/package.json
   last_updated_by: stianst
   last_updated_on: 2018-01-26 08:15:21.000000000 Z
@@ -588,6 +629,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: JS Build Tools / JS Task Runners
   image_url: https://img.stackshare.io/service/4423/zE8RTn9E_400x400.jpg
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/js/libs/keycloak-js/package.json
   detection_source: js/libs/keycloak-js/package.json
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-11-01 11:00:05.000000000 Z
@@ -600,6 +642,7 @@ tools:
   category: Application Hosting
   sub_category: Platform as a Service
   image_url: https://img.stackshare.io/service/3276/xWt1RFo6_400x400.jpg
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/operator/src/main/resources/application.properties
   detection_source: operator/src/main/resources/application.properties
   last_updated_by: Václav Muzikář
   last_updated_on: 2022-01-11 13:36:43.000000000 Z
@@ -612,6 +655,7 @@ tools:
   category: Analytics
   sub_category: Business Intelligence
   image_url: https://img.stackshare.io/service/11236/Group_22__3_.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/quarkus/runtime/pom.xml
   detection_source: quarkus/runtime/pom.xml
   last_updated_by: Pedro Igor
   last_updated_on: 2020-05-18 22:48:13.000000000 Z
@@ -621,6 +665,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/distribution/api-docs-dist/src/index.html
   detection_source: distribution/api-docs-dist/src/index.html
   last_updated_by: Stian Thorgersen
   last_updated_on: 2016-06-22 11:40:21.000000000 Z
@@ -630,6 +675,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/6707/infinispan_iconupdate_64x_normal.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/model/map-hot-rod/pom.xml
   detection_source: model/map-hot-rod/pom.xml
   last_updated_by: Martin Bartoš
   last_updated_on: 2023-01-04 18:37:28.000000000 Z
@@ -641,6 +687,7 @@ tools:
   category: Communications
   sub_category: Large Language Model Tools
   image_url: https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/LICENSE.txt
   detection_source: LICENSE.txt
   last_updated_by: stianst
   last_updated_on: 2019-11-08 11:04:32.000000000 Z
@@ -653,6 +700,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/jadenblack/keycloak
   detection_source: Repo Metadata
 - name: Ubuntu
   description: The leading OS for PC, tablet, phone and cloud
@@ -662,6 +710,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Operating Systems
   image_url: https://img.stackshare.io/service/3511/cof_orange_hex.jpg
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/testsuite/integration-arquillian/tests/other/mod_auth_mellon/docker/Dockerfile
   detection_source: testsuite/integration-arquillian/tests/other/mod_auth_mellon/docker/Dockerfile
   last_updated_by: mhajas
   last_updated_on: 2016-01-28 08:54:05.000000000 Z
@@ -672,12 +721,14 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/4253/nZXfdUQq_normal.jpg
+  detection_source_url: https://github.com/jadenblack/keycloak
   detection_source: Repo Metadata
 - name: husky
   website_url: https://github.com/typicode/husky
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/9527/5502029.jpeg
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/js/package.json
   detection_source: js/package.json
   last_updated_by: Jon Koops
   last_updated_on: 2023-02-03 10:45:11.000000000 Z
@@ -689,6 +740,7 @@ tools:
   category: Application Utilities
   sub_category: Translation Service
   image_url: https://img.stackshare.io/service/4747/default_82286a88bf01c80539ebd1d6dbea1b25df8af16d.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/js/apps/account-ui/package.json
   detection_source: js/apps/account-ui/package.json
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-10-30 11:16:20.000000000 Z
@@ -697,6 +749,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/10577/11071.jpeg
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/js/package.json
   detection_source: js/package.json
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-10-31 12:54:59.000000000 Z
@@ -708,6 +761,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/adapters/oidc/adapter-core/pom.xml
   detection_source: adapters/oidc/adapter-core/pom.xml
   last_updated_by: Christian Lutz
   last_updated_on: 2021-12-21 14:31:00.000000000 Z
@@ -719,6 +773,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/adapters/oidc/adapter-core/pom.xml
   detection_source: adapters/oidc/adapter-core/pom.xml
   last_updated_by: Denis Richtárik
   last_updated_on: 2020-10-20 08:47:56.000000000 Z
@@ -731,6 +786,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/adapters/oidc/adapter-core/pom.xml
   detection_source: adapters/oidc/adapter-core/pom.xml
   last_updated_by: Denis Richtárik
   last_updated_on: 2020-10-20 08:47:56.000000000 Z
@@ -742,6 +798,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/quarkus/runtime/pom.xml
   detection_source: quarkus/runtime/pom.xml
   last_updated_by: Martin Bartoš
   last_updated_on: 2023-09-06 09:43:18.000000000 Z
@@ -753,6 +810,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/model/map/pom.xml
   detection_source: model/map/pom.xml
   last_updated_by: Hynek Mlnarik
   last_updated_on: 2022-04-22 09:48:09.000000000 Z
@@ -764,6 +822,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/services/pom.xml
   detection_source: services/pom.xml
   last_updated_by: Douglas Palmer
   last_updated_on: 2023-02-01 00:14:22.000000000 Z
@@ -789,6 +848,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/quarkus/runtime/pom.xml
   detection_source: quarkus/runtime/pom.xml
   last_updated_by: Martin Bartoš
   last_updated_on: 2023-09-06 09:43:18.000000000 Z
@@ -800,6 +860,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/quarkus/runtime/pom.xml
   detection_source: quarkus/runtime/pom.xml
   last_updated_by: Martin Bartoš
   last_updated_on: 2023-09-06 09:43:18.000000000 Z
@@ -811,6 +872,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/dependencies/server-min/pom.xml
   detection_source: dependencies/server-min/pom.xml
   last_updated_by: Stian Thorgersen
   last_updated_on: 2015-07-17 11:45:43.000000000 Z
@@ -824,6 +886,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/distribution/api-docs-dist/pom.xml
   detection_source: distribution/api-docs-dist/pom.xml
   last_updated_by: Stian Thorgersen
   last_updated_on: 2022-10-18 12:43:04.000000000 Z
@@ -835,6 +898,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/model/jpa/pom.xml
   detection_source: model/jpa/pom.xml
   last_updated_by: Hynek Mlnarik
   last_updated_on: 2020-10-30 11:32:15.000000000 Z
@@ -846,6 +910,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/services/pom.xml
   detection_source: services/pom.xml
   last_updated_by: Martin Bartoš
   last_updated_on: 2023-03-24 11:23:37.000000000 Z
@@ -857,6 +922,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/quarkus/tests/integration/pom.xml
   detection_source: quarkus/tests/integration/pom.xml
   last_updated_by: Martin Bartoš
   last_updated_on: 2023-09-08 15:51:22.000000000 Z
@@ -867,6 +933,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/quarkus/tests/integration/pom.xml
   detection_source: quarkus/tests/integration/pom.xml
   last_updated_by: Martin Bartoš
   last_updated_on: 2023-09-08 15:51:22.000000000 Z
@@ -879,6 +946,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/quarkus/runtime/pom.xml
   detection_source: quarkus/runtime/pom.xml
   last_updated_by: Martin Bartoš
   last_updated_on: 2023-09-06 09:43:18.000000000 Z
@@ -917,6 +985,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/model/map-ldap/pom.xml
   detection_source: model/map-ldap/pom.xml
   last_updated_by: Hynek Mlnarik
   last_updated_on: 2022-04-22 09:48:09.000000000 Z
@@ -929,6 +998,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/quarkus/runtime/pom.xml
   detection_source: quarkus/runtime/pom.xml
   last_updated_by: Pedro Igor
   last_updated_on: 2020-09-15 14:22:11.000000000 Z
@@ -940,6 +1010,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/operator/pom.xml
   detection_source: operator/pom.xml
   last_updated_by: Václav Muzikář
   last_updated_on: 2023-06-01 11:39:41.000000000 Z
@@ -951,6 +1022,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/adapters/oidc/installed/pom.xml
   detection_source: adapters/oidc/installed/pom.xml
   last_updated_by: Thomas Kuestermann
   last_updated_on: 2020-02-05 14:06:20.000000000 Z
@@ -962,6 +1034,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/adapters/oidc/spring-boot-adapter-core/pom.xml
   detection_source: adapters/oidc/spring-boot-adapter-core/pom.xml
   last_updated_by: Ryan Dawson
   last_updated_on: 2017-06-30 13:31:30.000000000 Z
@@ -973,6 +1046,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/adapters/oidc/jaxrs-oauth-client/pom.xml
   detection_source: adapters/oidc/jaxrs-oauth-client/pom.xml
   last_updated_by: Martin Bartoš
   last_updated_on: 2023-01-09 09:57:57.000000000 Z
@@ -984,6 +1058,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/testsuite/integration-arquillian/test-apps/spring-boot-adapter-app/pom.xml
   detection_source: testsuite/integration-arquillian/test-apps/spring-boot-adapter-app/pom.xml
   last_updated_by: Pavel Drozd
   last_updated_on: 2023-05-22 11:26:17.000000000 Z
@@ -1008,6 +1083,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/adapters/oidc/adapter-core/pom.xml
   detection_source: adapters/oidc/adapter-core/pom.xml
   last_updated_by: Stian Thorgersen
   last_updated_on: 2015-07-17 11:45:43.000000000 Z
@@ -1019,6 +1095,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/testsuite/model/pom.xml
   detection_source: testsuite/model/pom.xml
   last_updated_by: Alexander Schwartz
   last_updated_on: 2022-02-17 10:22:17.000000000 Z
@@ -1030,6 +1107,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/testsuite/utils/pom.xml
   detection_source: testsuite/utils/pom.xml
   last_updated_by: Martin Bartoš
   last_updated_on: 2023-01-10 17:32:51.000000000 Z
@@ -1041,6 +1119,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/distribution/api-docs-dist/pom.xml
   detection_source: distribution/api-docs-dist/pom.xml
   last_updated_by: Stian Thorgersen
   last_updated_on: 2022-10-18 12:43:04.000000000 Z
@@ -1064,6 +1143,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/testsuite/integration-arquillian/test-apps/fuse/camel-fuse7-undertow/pom.xml
   detection_source: testsuite/integration-arquillian/test-apps/fuse/camel-fuse7-undertow/pom.xml
   last_updated_by: Pavel Drozd
   last_updated_on: 2023-05-22 11:26:17.000000000 Z
@@ -1075,6 +1155,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/testsuite/integration-arquillian/test-apps/fuse/camel-fuse7-undertow/pom.xml
   detection_source: testsuite/integration-arquillian/test-apps/fuse/camel-fuse7-undertow/pom.xml
   last_updated_by: Pavel Drozd
   last_updated_on: 2023-05-22 11:26:17.000000000 Z
@@ -1085,6 +1166,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/testsuite/integration-arquillian/test-apps/fuse/camel/pom.xml
   detection_source: testsuite/integration-arquillian/test-apps/fuse/camel/pom.xml
   last_updated_by: Pavel Drozd
   last_updated_on: 2023-05-22 11:26:17.000000000 Z
@@ -1096,6 +1178,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/quarkus/runtime/pom.xml
   detection_source: quarkus/runtime/pom.xml
   last_updated_by: Peter Zaoral
   last_updated_on: 2023-05-25 15:36:20.000000000 Z
@@ -1107,6 +1190,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/testsuite/integration-arquillian/test-apps/fuse/cxf-jaxrs-fuse7-undertow/pom.xml
   detection_source: testsuite/integration-arquillian/test-apps/fuse/cxf-jaxrs-fuse7-undertow/pom.xml
   last_updated_by: Pavel Drozd
   last_updated_on: 2023-05-22 11:26:17.000000000 Z
@@ -1118,6 +1202,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/testsuite/integration-arquillian/test-apps/fuse/cxf-jaxws-fuse7-undertow/pom.xml
   detection_source: testsuite/integration-arquillian/test-apps/fuse/cxf-jaxws-fuse7-undertow/pom.xml
   last_updated_by: Pavel Drozd
   last_updated_on: 2023-05-22 11:26:17.000000000 Z
@@ -1129,6 +1214,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/testsuite/integration-arquillian/test-apps/fuse/cxf-jaxrs-fuse7-undertow/pom.xml
   detection_source: testsuite/integration-arquillian/test-apps/fuse/cxf-jaxrs-fuse7-undertow/pom.xml
   last_updated_by: Pavel Drozd
   last_updated_on: 2023-05-22 11:26:17.000000000 Z
@@ -1140,6 +1226,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/testsuite/integration-arquillian/test-apps/fuse/cxf-jaxrs/pom.xml
   detection_source: testsuite/integration-arquillian/test-apps/fuse/cxf-jaxrs/pom.xml
   last_updated_by: Pavel Drozd
   last_updated_on: 2023-05-22 11:26:17.000000000 Z
@@ -1153,6 +1240,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/util/embedded-ldap/pom.xml
   detection_source: util/embedded-ldap/pom.xml
   last_updated_by: Tero Saarni
   last_updated_on: 2020-05-13 12:58:20.000000000 Z
@@ -1165,6 +1253,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/util/embedded-ldap/pom.xml
   detection_source: util/embedded-ldap/pom.xml
   last_updated_by: Tero Saarni
   last_updated_on: 2020-05-13 12:58:20.000000000 Z
@@ -1177,6 +1266,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/util/embedded-ldap/pom.xml
   detection_source: util/embedded-ldap/pom.xml
   last_updated_by: Tero Saarni
   last_updated_on: 2020-05-13 12:58:20.000000000 Z
@@ -1188,6 +1278,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/util/embedded-ldap/pom.xml
   detection_source: util/embedded-ldap/pom.xml
   last_updated_by: Tero Saarni
   last_updated_on: 2020-05-13 12:58:20.000000000 Z
@@ -1225,6 +1316,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/adapters/oidc/adapter-core/pom.xml
   detection_source: adapters/oidc/adapter-core/pom.xml
   last_updated_by: Pedro Igor
   last_updated_on: 2023-03-07 16:59:19.000000000 Z
@@ -1236,6 +1328,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/quarkus/runtime/pom.xml
   detection_source: quarkus/runtime/pom.xml
   last_updated_by: Jon Koops
   last_updated_on: 2023-04-13 13:41:40.000000000 Z
@@ -1332,6 +1425,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/quarkus/runtime/pom.xml
   detection_source: quarkus/runtime/pom.xml
   last_updated_by: Jon Koops
   last_updated_on: 2023-04-13 13:41:40.000000000 Z
@@ -1355,6 +1449,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/adapters/oidc/tomcat/tomcat-core/pom.xml
   detection_source: adapters/oidc/tomcat/tomcat-core/pom.xml
   last_updated_by: stianst
   last_updated_on: 2022-01-24 13:55:45.000000000 Z
@@ -1366,6 +1461,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/adapters/oidc/tomcat/tomcat/pom.xml
   detection_source: adapters/oidc/tomcat/tomcat/pom.xml
   last_updated_by: vramik
   last_updated_on: 2019-05-23 09:00:57.000000000 Z
@@ -1390,6 +1486,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/operator/pom.xml
   detection_source: operator/pom.xml
   last_updated_by: Steven Hawkins
   last_updated_on: 2023-10-05 17:09:40.000000000 Z
@@ -1401,6 +1498,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/operator/pom.xml
   detection_source: operator/pom.xml
   last_updated_by: Steven Hawkins
   last_updated_on: 2023-10-05 17:09:40.000000000 Z
@@ -1438,6 +1536,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/testsuite/utils/pom.xml
   detection_source: testsuite/utils/pom.xml
   last_updated_by: Alexander Schwartz
   last_updated_on: 2023-04-15 20:58:55.000000000 Z
@@ -1449,6 +1548,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/testsuite/integration-arquillian/servers/app-server/jetty/94/pom.xml
   detection_source: testsuite/integration-arquillian/servers/app-server/jetty/94/pom.xml
   last_updated_by: Sebastian Laskawiec
   last_updated_on: 2019-02-12 09:12:40.000000000 Z
@@ -1460,6 +1560,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/testsuite/integration-arquillian/servers/app-server/jetty/94/pom.xml
   detection_source: testsuite/integration-arquillian/servers/app-server/jetty/94/pom.xml
   last_updated_by: Sebastian Laskawiec
   last_updated_on: 2019-02-12 09:12:40.000000000 Z
@@ -1471,6 +1572,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/testsuite/integration-arquillian/servers/app-server/jetty/94/pom.xml
   detection_source: testsuite/integration-arquillian/servers/app-server/jetty/94/pom.xml
   last_updated_by: Sebastian Laskawiec
   last_updated_on: 2019-02-12 09:12:40.000000000 Z
@@ -1482,6 +1584,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/testsuite/integration-arquillian/servers/app-server/jetty/common/pom.xml
   detection_source: testsuite/integration-arquillian/servers/app-server/jetty/common/pom.xml
   last_updated_by: Martin Bartoš
   last_updated_on: 2023-02-27 11:37:48.000000000 Z
@@ -1493,6 +1596,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/adapters/oidc/jetty/jetty-core/pom.xml
   detection_source: adapters/oidc/jetty/jetty-core/pom.xml
   last_updated_by: Stian Thorgersen
   last_updated_on: 2022-05-04 13:24:46.000000000 Z
@@ -1504,6 +1608,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/adapters/oidc/jetty/jetty-core/pom.xml
   detection_source: adapters/oidc/jetty/jetty-core/pom.xml
   last_updated_by: Stian Thorgersen
   last_updated_on: 2022-05-04 13:24:46.000000000 Z
@@ -1515,6 +1620,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/adapters/oidc/jetty/jetty-core/pom.xml
   detection_source: adapters/oidc/jetty/jetty-core/pom.xml
   last_updated_by: Stian Thorgersen
   last_updated_on: 2022-05-04 13:24:46.000000000 Z
@@ -1526,6 +1632,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/adapters/oidc/spring-boot-adapter-core/pom.xml
   detection_source: adapters/oidc/spring-boot-adapter-core/pom.xml
   last_updated_by: Ryan Dawson
   last_updated_on: 2017-06-30 13:31:30.000000000 Z
@@ -1538,6 +1645,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/dependencies/server-min/pom.xml
   detection_source: dependencies/server-min/pom.xml
   last_updated_by: Stian Thorgersen
   last_updated_on: 2016-11-09 08:40:31.000000000 Z
@@ -1601,6 +1709,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/adapters/saml/core/pom.xml
   detection_source: adapters/saml/core/pom.xml
   last_updated_by: Peter Skopek
   last_updated_on: 2022-10-25 13:27:27.000000000 Z
@@ -1612,6 +1721,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/adapters/saml/wildfly-elytron-jakarta/pom.xml
   detection_source: adapters/saml/wildfly-elytron-jakarta/pom.xml
   last_updated_by: Peter Skopek
   last_updated_on: 2023-04-18 06:47:24.000000000 Z
@@ -1623,6 +1733,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/integration/client-cli/admin-cli/pom.xml
   detection_source: integration/client-cli/admin-cli/pom.xml
   last_updated_by: Peter Zaoral
   last_updated_on: 2023-07-26 10:29:53.000000000 Z
@@ -1647,6 +1758,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/testsuite/integration-arquillian/servers/auth-server/undertow/pom.xml
   detection_source: testsuite/integration-arquillian/servers/auth-server/undertow/pom.xml
   last_updated_by: Martin Bartoš
   last_updated_on: 2023-01-09 09:57:57.000000000 Z
@@ -1659,6 +1771,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/testsuite/integration-arquillian/servers/app-server/app-server-spi/pom.xml
   detection_source: testsuite/integration-arquillian/servers/app-server/app-server-spi/pom.xml
   last_updated_by: vramik
   last_updated_on: 2018-04-18 11:31:04.000000000 Z
@@ -1670,6 +1783,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/adapters/oidc/adapter-core/pom.xml
   detection_source: adapters/oidc/adapter-core/pom.xml
   last_updated_by: Pedro Igor
   last_updated_on: 2023-03-07 16:59:19.000000000 Z
@@ -1681,6 +1795,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/adapters/oidc/wildfly/wildfly-subsystem/pom.xml
   detection_source: adapters/oidc/wildfly/wildfly-subsystem/pom.xml
   last_updated_by: Peter Skopek
   last_updated_on: 2023-09-05 21:19:39.000000000 Z
@@ -1692,6 +1807,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/adapters/oidc/wildfly/wildfly-subsystem/pom.xml
   detection_source: adapters/oidc/wildfly/wildfly-subsystem/pom.xml
   last_updated_by: Peter Skopek
   last_updated_on: 2023-09-05 21:19:39.000000000 Z
@@ -1703,6 +1819,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/model/jpa/pom.xml
   detection_source: model/jpa/pom.xml
   last_updated_by: Alexander Schwartz
   last_updated_on: 2023-05-17 14:34:20.000000000 Z
@@ -1714,6 +1831,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/adapters/oidc/installed/pom.xml
   detection_source: adapters/oidc/installed/pom.xml
   last_updated_by: Martin Bartoš
   last_updated_on: 2023-01-09 09:57:57.000000000 Z
@@ -1725,6 +1843,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/adapters/oidc/jaxrs-oauth-client/pom.xml
   detection_source: adapters/oidc/jaxrs-oauth-client/pom.xml
   last_updated_by: Martin Bartoš
   last_updated_on: 2023-01-09 09:57:57.000000000 Z
@@ -1736,6 +1855,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/integration/admin-client-jee/pom.xml
   detection_source: integration/admin-client-jee/pom.xml
   last_updated_by: Martin Bartoš
   last_updated_on: 2023-04-28 14:35:31.000000000 Z
@@ -1747,6 +1867,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/integration/admin-client-jee/pom.xml
   detection_source: integration/admin-client-jee/pom.xml
   last_updated_by: Martin Bartoš
   last_updated_on: 2023-04-28 14:35:31.000000000 Z
@@ -1758,6 +1879,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/testsuite/integration-arquillian/servers/app-server/undertow/pom.xml
   detection_source: testsuite/integration-arquillian/servers/app-server/undertow/pom.xml
   last_updated_by: Martin Bartoš
   last_updated_on: 2023-01-10 17:32:51.000000000 Z
@@ -1769,6 +1891,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/testsuite/integration-arquillian/util/pom.xml
   detection_source: testsuite/integration-arquillian/util/pom.xml
   last_updated_by: Pavel Drozd
   last_updated_on: 2023-05-22 11:26:17.000000000 Z
@@ -1780,6 +1903,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/adapters/oidc/jaxrs-oauth-client/pom.xml
   detection_source: adapters/oidc/jaxrs-oauth-client/pom.xml
   last_updated_by: Martin Bartoš
   last_updated_on: 2023-01-09 09:57:57.000000000 Z
@@ -1791,6 +1915,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/testsuite/integration-arquillian/tests/base/pom.xml
   detection_source: testsuite/integration-arquillian/tests/base/pom.xml
   last_updated_by: Václav Muzikář
   last_updated_on: 2023-07-20 09:57:18.000000000 Z
@@ -1816,6 +1941,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/adapters/oidc/installed/pom.xml
   detection_source: adapters/oidc/installed/pom.xml
   last_updated_by: Martin Bartoš
   last_updated_on: 2023-01-09 09:57:57.000000000 Z
@@ -1828,6 +1954,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/adapters/oidc/adapter-core/pom.xml
   detection_source: adapters/oidc/adapter-core/pom.xml
   last_updated_by: Pedro Igor
   last_updated_on: 2023-03-07 16:59:19.000000000 Z
@@ -1839,6 +1966,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/dependencies/server-all/pom.xml
   detection_source: dependencies/server-all/pom.xml
   last_updated_by: Hynek Mlnarik
   last_updated_on: 2022-05-26 13:48:12.000000000 Z
@@ -1850,6 +1978,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/testsuite/utils/pom.xml
   detection_source: testsuite/utils/pom.xml
   last_updated_by: Martin Bartoš
   last_updated_on: 2023-04-28 14:35:31.000000000 Z
@@ -1874,6 +2003,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/operator/pom.xml
   detection_source: operator/pom.xml
   last_updated_by: Steven Hawkins
   last_updated_on: 2023-10-06 17:52:50.000000000 Z
@@ -1885,6 +2015,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/testsuite/integration-arquillian/tests/base/pom.xml
   detection_source: testsuite/integration-arquillian/tests/base/pom.xml
   last_updated_by: Václav Muzikář
   last_updated_on: 2023-07-20 09:57:18.000000000 Z
@@ -1896,6 +2027,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/adapters/oidc/jaxrs-oauth-client/pom.xml
   detection_source: adapters/oidc/jaxrs-oauth-client/pom.xml
   last_updated_by: Martin Bartoš
   last_updated_on: 2023-01-09 09:57:57.000000000 Z
@@ -1907,6 +2039,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/testsuite/integration-arquillian/util/pom.xml
   detection_source: testsuite/integration-arquillian/util/pom.xml
   last_updated_by: Pavel Drozd
   last_updated_on: 2023-05-22 11:26:17.000000000 Z
@@ -1918,6 +2051,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/adapters/spi/jboss-adapter-core/pom.xml
   detection_source: adapters/spi/jboss-adapter-core/pom.xml
   last_updated_by: Martin Bartoš
   last_updated_on: 2023-01-09 09:57:57.000000000 Z
@@ -1929,6 +2063,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/testsuite/model/pom.xml
   detection_source: testsuite/model/pom.xml
   last_updated_by: Alexander Schwartz
   last_updated_on: 2023-03-07 17:51:19.000000000 Z
@@ -1953,6 +2088,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/misc/keycloak-test-helper/pom.xml
   detection_source: misc/keycloak-test-helper/pom.xml
   last_updated_by: Douglas Palmer
   last_updated_on: 2022-07-25 08:57:52.000000000 Z
@@ -1964,6 +2100,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/adapters/oidc/spring-security/pom.xml
   detection_source: adapters/oidc/spring-security/pom.xml
   last_updated_by: Pedro Igor
   last_updated_on: 2023-03-07 16:59:19.000000000 Z
@@ -1975,6 +2112,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/adapters/oidc/spring-security/pom.xml
   detection_source: adapters/oidc/spring-security/pom.xml
   last_updated_by: Pedro Igor
   last_updated_on: 2023-03-07 16:59:19.000000000 Z
@@ -1986,6 +2124,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/adapters/oidc/spring-boot2/pom.xml
   detection_source: adapters/oidc/spring-boot2/pom.xml
   last_updated_by: Martin Bartoš
   last_updated_on: 2022-02-02 09:47:15.000000000 Z
@@ -1997,6 +2136,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/adapters/oidc/spring-boot-adapter-core/pom.xml
   detection_source: adapters/oidc/spring-boot-adapter-core/pom.xml
   last_updated_by: Stian Thorgersen
   last_updated_on: 2022-04-28 08:59:31.000000000 Z
@@ -2008,6 +2148,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/misc/spring-boot-starter/keycloak-spring-boot-starter/pom.xml
   detection_source: misc/spring-boot-starter/keycloak-spring-boot-starter/pom.xml
   last_updated_by: sebastienblanc
   last_updated_on: 2018-07-03 16:58:34.000000000 Z
@@ -2020,6 +2161,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/testsuite/integration-arquillian/test-apps/spring-boot-adapter-app/pom.xml
   detection_source: testsuite/integration-arquillian/test-apps/spring-boot-adapter-app/pom.xml
   last_updated_by: Aboullos
   last_updated_on: 2023-10-31 08:06:09.000000000 Z
@@ -2031,6 +2173,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/testsuite/integration-arquillian/test-apps/spring-boot-adapter-app/pom.xml
   detection_source: testsuite/integration-arquillian/test-apps/spring-boot-adapter-app/pom.xml
   last_updated_by: Aboullos
   last_updated_on: 2023-10-31 08:06:09.000000000 Z
@@ -2043,6 +2186,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/adapters/oidc/spring-boot-adapter-core/pom.xml
   detection_source: adapters/oidc/spring-boot-adapter-core/pom.xml
   last_updated_by: Stian Thorgersen
   last_updated_on: 2022-04-28 08:59:31.000000000 Z
@@ -2054,6 +2198,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/adapters/oidc/spring-security/pom.xml
   detection_source: adapters/oidc/spring-security/pom.xml
   last_updated_by: Pedro Igor
   last_updated_on: 2023-03-07 16:59:19.000000000 Z
@@ -2065,6 +2210,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/adapters/oidc/spring-security/pom.xml
   detection_source: adapters/oidc/spring-security/pom.xml
   last_updated_by: Pedro Igor
   last_updated_on: 2023-03-07 16:59:19.000000000 Z
@@ -2076,6 +2222,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/adapters/oidc/spring-boot2/pom.xml
   detection_source: adapters/oidc/spring-boot2/pom.xml
   last_updated_by: Martin Bartoš
   last_updated_on: 2022-02-02 09:47:15.000000000 Z
@@ -2087,6 +2234,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/adapters/oidc/spring-boot2/pom.xml
   detection_source: adapters/oidc/spring-boot2/pom.xml
   last_updated_by: Martin Bartoš
   last_updated_on: 2022-02-02 09:47:15.000000000 Z
@@ -2098,6 +2246,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/testsuite/integration-arquillian/tests/base/pom.xml
   detection_source: testsuite/integration-arquillian/tests/base/pom.xml
   last_updated_by: Václav Muzikář
   last_updated_on: 2023-07-20 09:57:18.000000000 Z
@@ -2109,6 +2258,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/quarkus/tests/junit5/pom.xml
   detection_source: quarkus/tests/junit5/pom.xml
   last_updated_by: Pedro Igor
   last_updated_on: 2023-06-21 13:46:47.000000000 Z
@@ -2120,6 +2270,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/testsuite/integration-arquillian/tests/base/pom.xml
   detection_source: testsuite/integration-arquillian/tests/base/pom.xml
   last_updated_by: rmartinc
   last_updated_on: 2023-09-20 13:13:08.000000000 Z
@@ -2131,6 +2282,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/dependencies/server-all/pom.xml
   detection_source: dependencies/server-all/pom.xml
   last_updated_by: Hynek Mlnarik
   last_updated_on: 2022-05-26 13:48:12.000000000 Z
@@ -2142,6 +2294,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/adapters/oidc/wildfly-elytron/pom.xml
   detection_source: adapters/oidc/wildfly-elytron/pom.xml
   last_updated_by: Peter Skopek
   last_updated_on: 2023-09-05 21:19:39.000000000 Z
@@ -2153,6 +2306,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/adapters/oidc/wildfly/wildfly-subsystem/pom.xml
   detection_source: adapters/oidc/wildfly/wildfly-subsystem/pom.xml
   last_updated_by: Peter Skopek
   last_updated_on: 2023-09-05 21:19:39.000000000 Z
@@ -2164,6 +2318,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/adapters/oidc/wildfly-elytron/pom.xml
   detection_source: adapters/oidc/wildfly-elytron/pom.xml
   last_updated_by: Peter Skopek
   last_updated_on: 2023-09-05 21:19:39.000000000 Z
@@ -2175,6 +2330,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/quarkus/runtime/pom.xml
   detection_source: quarkus/runtime/pom.xml
   last_updated_by: Jon Koops
   last_updated_on: 2023-04-13 13:41:40.000000000 Z
@@ -2187,6 +2343,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/testsuite/utils/pom.xml
   detection_source: testsuite/utils/pom.xml
   last_updated_by: Martin Bartoš
   last_updated_on: 2023-03-24 11:23:37.000000000 Z
@@ -2697,6 +2854,20 @@ tools:
   detection_source: js/apps/admin-ui/package.json
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-09-20 08:10:58.000000000 Z
+- name: husky
+  description: Prevents bad commit or push
+  package_url: https://www.npmjs.com/husky
+  version: 8.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15831/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/js/package.json
+  detection_source: js/package.json
+  last_updated_by: Jon Koops
+  last_updated_on: 2023-02-03 10:45:11.000000000 Z
 - name: jwt-decode
   description: Decode JWT tokens, mostly useful for browser applications
   package_url: https://www.npmjs.com/jwt-decode
@@ -2711,6 +2882,20 @@ tools:
   detection_source: js/libs/keycloak-js/package.json
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-10-27 12:20:43.000000000 Z
+- name: lint-staged
+  description: Lint files staged by git
+  package_url: https://www.npmjs.com/lint-staged
+  version: 15.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15868/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/jadenblack/keycloak/blob/main/js/package.json
+  detection_source: js/package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-10-31 12:54:59.000000000 Z
 - name: lodash-es
   description: Lodash exported as ES modules
   package_url: https://www.npmjs.com/lodash-es

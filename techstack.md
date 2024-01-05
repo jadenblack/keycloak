@@ -128,7 +128,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [jadenblack/keycloak](https://github.com/jadenblack/keycloak)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|242<br/>Tools used|12/14/23 <br/>Report generated|
+|244<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -666,7 +666,7 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (181)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (183)</h2>
 
 ## <img width='24' height='24' src='https://img.stackshare.io/package_manager/977/default_9833f2ef0bbc2a946b4cc5e9307264033361076b.png'/> Apache Maven (129)
 
@@ -803,7 +803,7 @@ Full tech stack [here](/techstack.md)
 |[xml-apis:xml-apis](http://xml.apache.org/commons/components/external/)|N/A|03/24/23|Martin Bartoš |ISC|N/A|
 
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (52)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (54)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -843,7 +843,9 @@ Full tech stack [here](/techstack.md)
 |[eslint-plugin-react-hooks](https://www.npmjs.com/eslint-plugin-react-hooks)|v4.6.0|10/31/23|dependabot[bot] |MIT|N/A|
 |[file-saver](https://www.npmjs.com/file-saver)|v2.0.5|10/19/23|dependabot[bot] |MIT|N/A|
 |[flat](https://www.npmjs.com/flat)|v6.0.1|09/20/23|dependabot[bot] |BSD-3-Clause|N/A|
+|[husky](https://www.npmjs.com/husky)|v8.0.3|02/03/23|Jon Koops |MIT|N/A|
 |[jwt-decode](https://www.npmjs.com/jwt-decode)|v4.0.0|10/27/23|dependabot[bot] |MIT|N/A|
+|[lint-staged](https://www.npmjs.com/lint-staged)|v15.0.2|10/31/23|dependabot[bot] |MIT|N/A|
 |[lodash-es](https://www.npmjs.com/lodash-es)|v4.17.21|10/19/23|dependabot[bot] |MIT|N/A|
 |[monaco-editor](https://www.npmjs.com/monaco-editor)|v0.44.0|10/08/23|dependabot[bot] |MIT|N/A|
 |[react-dom](https://www.npmjs.com/react-dom)|v18.2.0|11/03/23|dependabot[bot] |MIT|N/A|

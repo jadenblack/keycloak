@@ -3,59 +3,59 @@
 ## Tech Stack
 jadenblack/keycloak is built on the following main stack:
 
-- [Mocha](http://mochajs.org/) – Javascript Testing Framework
-- [Java](https://www.java.com) – Languages
+- [Asciidoctor](https://asciidoctor.org) – Languages
 - [Groovy](https://groovy-lang.org/) – Languages
+- [Java](https://www.java.com) – Languages
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- [Mustache](http://mustache.github.io/) – Templating Languages & Extensions
+- [Rust](http://www.rust-lang.org/) – Languages
+- [SQL](https://en.wikipedia.org/wiki/SQL) – Languages
+- [TypeScript](http://www.typescriptlang.org) – Languages
+- [Apache FreeMarker](http://freemarker.incubator.apache.org/index.html) – Java Tools
 - [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - [React](https://reactjs.org/) – Javascript UI Libraries
-- [jQuery](http://jquery.com/) – Javascript UI Libraries
-- [MySQL](http://www.mysql.com) – Databases
-- [Microsoft SQL Server](http://microsoft.com/sqlserver) – Databases
-- [PostgreSQL](http://www.postgresql.org/) – Databases
-- [Rust](http://www.rust-lang.org/) – Languages
-- [Mustache](http://mustache.github.io/) – Templating Languages & Extensions
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- [Liquibase](https://www.liquibase.com) – Database Tools
-- [Eclipse](https://www.eclipse.org/) – Integrated Development Environment
-- [TypeScript](http://www.typescriptlang.org) – Languages
-- [MariaDB](https://mariadb.com/) – Databases
-- [Chai](http://chaijs.com/) – Javascript Testing Framework
-- [Spring Framework](https://spring.io/projects/spring-framework) – Frameworks (Full Stack)
-- [JUnit](http://junit.org/) – Testing Frameworks
-- [Mockito](https://site.mockito.org/) – Testing Frameworks
-- [JBoss](https://developers.redhat.com/products/eap) – Web Servers
-- [SQL](https://en.wikipedia.org/wiki/SQL) – Languages
-- [MSSQL](https://www.microsoft.com/en-us/sql-server) – Databases
-- [Babel](http://babeljs.io/) – JavaScript Compilers
-- [ServiceStack](https://servicestack.net/) – Frameworks (Full Stack)
-- [Log4j](https://logging.apache.org/log4j/2.x/) – Logging Tools
-- [SLF4J](http://slf4j.org/) – Log Management
-- [Asciidoctor](https://asciidoctor.org) – Languages
-- [guava](https://github.com/google/guava) – Java Tools
-- [H2 Database](http://www.h2database.com/) – Databases
-- [Apache Camel](https://camel.apache.org/) – Platform as a Service
-- [ESLint](http://eslint.org/) – Code Review
 - [React Router](https://github.com/rackt/react-router) – JavaScript Framework Components
-- [Wildfly](https://www.wildfly.org/) – Web Servers
-- [Ubuntu](http://www.ubuntu.com/) – Operating Systems
-- [GlassFish](https://glassfish.java.net) – Web Servers
-- [rollup](http://rollupjs.org/) – JS Build Tools / JS Task Runners
-- [Apache FreeMarker](http://freemarker.incubator.apache.org/index.html) – Java Tools
-- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
-- [i18next](https://www.i18next.com/) – Translation Service
-- [Snyk](https://snyk.io/) – Dependency Monitoring
-- [Prettier](https://prettier.io/) – Code Review
-- [jsdom](https://github.com/jsdom/jsdom) – Headless Browsers
-- [Cypress](https://www.cypress.io/) – Javascript Testing Framework
-- [Octokit](https://github.com/octokit/octokit.net) – Tools for GitHub
-- [Dataform](https://dataform.co/) – Business Intelligence
-- [GitHub Actions](https://github.com/features/actions) – Continuous Integration
-- [Vite](https://vitejs.dev/) – JS Build Tools / JS Task Runners
-- [Snowpack](https://www.snowpack.dev/) – JS Build Tools / JS Task Runners
-- [Amazon Elastic Container Registry Public](https://docs.aws.amazon.com/AmazonECR/latest/public/what-is-ecr.html) – Docker Registry
-- [LangChain](https://github.com/hwchase17/langchain) – Large Language Model Tools
+- [ServiceStack](https://servicestack.net/) – Frameworks (Full Stack)
+- [Spring Framework](https://spring.io/projects/spring-framework) – Frameworks (Full Stack)
+- [guava](https://github.com/google/guava) – Java Tools
+- [jQuery](http://jquery.com/) – Javascript UI Libraries
+- [H2 Database](http://www.h2database.com/) – Databases
+- [Liquibase](https://www.liquibase.com) – Database Tools
+- [MSSQL](https://www.microsoft.com/en-us/sql-server) – Databases
+- [MariaDB](https://mariadb.com/) – Databases
+- [Microsoft SQL Server](http://microsoft.com/sqlserver) – Databases
+- [MySQL](http://www.mysql.com) – Databases
+- [PostgreSQL](http://www.postgresql.org/) – Databases
 - [pgvector](https://github.com/pgvector/pgvector/) – Database Tools
+- [Amazon Elastic Container Registry Public](https://docs.aws.amazon.com/AmazonECR/latest/public/what-is-ecr.html) – Docker Registry
+- [Babel](http://babeljs.io/) – JavaScript Compilers
+- [Chai](http://chaijs.com/) – Javascript Testing Framework
+- [Cypress](https://www.cypress.io/) – Javascript Testing Framework
 - [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- [ESLint](http://eslint.org/) – Code Review
+- [Eclipse](https://www.eclipse.org/) – Integrated Development Environment
+- [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- [GlassFish](https://glassfish.java.net) – Web Servers
+- [JBoss](https://developers.redhat.com/products/eap) – Web Servers
+- [JUnit](http://junit.org/) – Testing Frameworks
+- [Log4j](https://logging.apache.org/log4j/2.x/) – Logging Tools
+- [Mocha](http://mochajs.org/) – Javascript Testing Framework
+- [Mockito](https://site.mockito.org/) – Testing Frameworks
+- [Octokit](https://github.com/octokit/octokit.net) – Tools for GitHub
+- [Prettier](https://prettier.io/) – Code Review
+- [SLF4J](http://slf4j.org/) – Log Management
+- [Snowpack](https://www.snowpack.dev/) – JS Build Tools / JS Task Runners
+- [Snyk](https://snyk.io/) – Dependency Monitoring
+- [Vite](https://vitejs.dev/) – JS Build Tools / JS Task Runners
+- [Wildfly](https://www.wildfly.org/) – Web Servers
+- [jsdom](https://github.com/jsdom/jsdom) – Headless Browsers
+- [rollup](http://rollupjs.org/) – JS Build Tools / JS Task Runners
+- [Apache Camel](https://camel.apache.org/) – Platform as a Service
+- [Dataform](https://dataform.co/) – Business Intelligence
+- [LangChain](https://github.com/hwchase17/langchain) – Large Language Model Tools
+- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
+- [Ubuntu](http://www.ubuntu.com/) – Operating Systems
+- [i18next](https://www.i18next.com/) – Translation Service
 
 Full tech stack [here](/techstack.md)
 
@@ -65,59 +65,59 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 jadenblack/keycloak is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/832/mocha.png' alt='Mocha'/> [Mocha](http://mochajs.org/) – Javascript Testing Framework
-- <img width='25' height='25' src='https://img.stackshare.io/service/995/K85ZWV2F.png' alt='Java'/> [Java](https://www.java.com) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/2924/gvQpykZd_400x400.jpg' alt='Asciidoctor'/> [Asciidoctor](https://asciidoctor.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/997/default_7ff5fcd857f42ad25149f659693d8930bffddf14.png' alt='Groovy'/> [Groovy](https://groovy-lang.org/) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/995/K85ZWV2F.png' alt='Java'/> [Java](https://www.java.com) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1142/197655.png' alt='Mustache'/> [Mustache](http://mustache.github.io/) – Templating Languages & Extensions
+- <img width='25' height='25' src='https://img.stackshare.io/service/1070/v7txhrjp9pdqrkdtxxp0.png' alt='Rust'/> [Rust](http://www.rust-lang.org/) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png' alt='SQL'/> [SQL](https://en.wikipedia.org/wiki/SQL) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1612/bynNY5dJ.jpg' alt='TypeScript'/> [TypeScript](http://www.typescriptlang.org) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/4456/ymCgaIO0_400x400.jpg' alt='Apache FreeMarker'/> [Apache FreeMarker](http://freemarker.incubator.apache.org/index.html) – Java Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' alt='React'/> [React](https://reactjs.org/) – Javascript UI Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg' alt='jQuery'/> [jQuery](http://jquery.com/) – Javascript UI Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/1025/logo-mysql-170x170.png' alt='MySQL'/> [MySQL](http://www.mysql.com) – Databases
-- <img width='25' height='25' src='https://img.stackshare.io/service/1027/sql_server.png' alt='Microsoft SQL Server'/> [Microsoft SQL Server](http://microsoft.com/sqlserver) – Databases
-- <img width='25' height='25' src='https://img.stackshare.io/service/1028/ASOhU5xJ.png' alt='PostgreSQL'/> [PostgreSQL](http://www.postgresql.org/) – Databases
-- <img width='25' height='25' src='https://img.stackshare.io/service/1070/v7txhrjp9pdqrkdtxxp0.png' alt='Rust'/> [Rust](http://www.rust-lang.org/) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1142/197655.png' alt='Mustache'/> [Mustache](http://mustache.github.io/) – Templating Languages & Extensions
-- <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1398/y1As8_s5_400x400.jpg' alt='Liquibase'/> [Liquibase](https://www.liquibase.com) – Database Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/1446/8cyY6D_m.png' alt='Eclipse'/> [Eclipse](https://www.eclipse.org/) – Integrated Development Environment
-- <img width='25' height='25' src='https://img.stackshare.io/service/1612/bynNY5dJ.jpg' alt='TypeScript'/> [TypeScript](http://www.typescriptlang.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1615/mariadb-logo-400x400.png' alt='MariaDB'/> [MariaDB](https://mariadb.com/) – Databases
-- <img width='25' height='25' src='https://img.stackshare.io/service/1725/chai.png' alt='Chai'/> [Chai](http://chaijs.com/) – Javascript Testing Framework
-- <img width='25' height='25' src='https://img.stackshare.io/service/2006/spring-framework-project-logo.png' alt='Spring Framework'/> [Spring Framework](https://spring.io/projects/spring-framework) – Frameworks (Full Stack)
-- <img width='25' height='25' src='https://img.stackshare.io/service/2020/874086.png' alt='JUnit'/> [JUnit](http://junit.org/) – Testing Frameworks
-- <img width='25' height='25' src='https://img.stackshare.io/service/2021/4y634TJm_400x400.jpg' alt='Mockito'/> [Mockito](https://site.mockito.org/) – Testing Frameworks
-- <img width='25' height='25' src='https://img.stackshare.io/service/2188/unnamed.jpg' alt='JBoss'/> [JBoss](https://developers.redhat.com/products/eap) – Web Servers
-- <img width='25' height='25' src='https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png' alt='SQL'/> [SQL](https://en.wikipedia.org/wiki/SQL) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/2445/ZKsJsucq_400x400.jpg' alt='MSSQL'/> [MSSQL](https://www.microsoft.com/en-us/sql-server) – Databases
-- <img width='25' height='25' src='https://img.stackshare.io/service/2739/-1wfGjNw.png' alt='Babel'/> [Babel](http://babeljs.io/) – JavaScript Compilers
-- <img width='25' height='25' src='https://img.stackshare.io/service/2773/JuTVEkWX_400x400.jpg' alt='ServiceStack'/> [ServiceStack](https://servicestack.net/) – Frameworks (Full Stack)
-- <img width='25' height='25' src='https://img.stackshare.io/service/2804/Coralogix-log4j-integration.jpg' alt='Log4j'/> [Log4j](https://logging.apache.org/log4j/2.x/) – Logging Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/2805/05518ecaa42841e834421e9d6987b04f_400x400.png' alt='SLF4J'/> [SLF4J](http://slf4j.org/) – Log Management
-- <img width='25' height='25' src='https://img.stackshare.io/service/2924/gvQpykZd_400x400.jpg' alt='Asciidoctor'/> [Asciidoctor](https://asciidoctor.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/2970/wBjKn0ol.png' alt='guava'/> [guava](https://github.com/google/guava) – Java Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/3105/h2-logo_square_400x400.png' alt='H2 Database'/> [H2 Database](http://www.h2database.com/) – Databases
-- <img width='25' height='25' src='https://img.stackshare.io/service/3276/xWt1RFo6_400x400.jpg' alt='Apache Camel'/> [Apache Camel](https://camel.apache.org/) – Platform as a Service
-- <img width='25' height='25' src='https://img.stackshare.io/service/3337/Q4L7Jncy.jpg' alt='ESLint'/> [ESLint](http://eslint.org/) – Code Review
 - <img width='25' height='25' src='https://img.stackshare.io/service/3350/8261421.png' alt='React Router'/> [React Router](https://github.com/rackt/react-router) – JavaScript Framework Components
-- <img width='25' height='25' src='https://img.stackshare.io/service/3411/R_inOTNM_400x400.png' alt='Wildfly'/> [Wildfly](https://www.wildfly.org/) – Web Servers
-- <img width='25' height='25' src='https://img.stackshare.io/service/3511/cof_orange_hex.jpg' alt='Ubuntu'/> [Ubuntu](http://www.ubuntu.com/) – Operating Systems
-- <img width='25' height='25' src='https://img.stackshare.io/service/3628/515GX-Cc_400x400.jpg' alt='GlassFish'/> [GlassFish](https://glassfish.java.net) – Web Servers
-- <img width='25' height='25' src='https://img.stackshare.io/service/4423/zE8RTn9E_400x400.jpg' alt='rollup'/> [rollup](http://rollupjs.org/) – JS Build Tools / JS Task Runners
-- <img width='25' height='25' src='https://img.stackshare.io/service/4456/ymCgaIO0_400x400.jpg' alt='Apache FreeMarker'/> [Apache FreeMarker](http://freemarker.incubator.apache.org/index.html) – Java Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
-- <img width='25' height='25' src='https://img.stackshare.io/service/4747/default_82286a88bf01c80539ebd1d6dbea1b25df8af16d.png' alt='i18next'/> [i18next](https://www.i18next.com/) – Translation Service
-- <img width='25' height='25' src='https://img.stackshare.io/service/5326/6p1SNAJu.jpg' alt='Snyk'/> [Snyk](https://snyk.io/) – Dependency Monitoring
-- <img width='25' height='25' src='https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg' alt='Prettier'/> [Prettier](https://prettier.io/) – Code Review
-- <img width='25' height='25' src='https://img.stackshare.io/service/7054/preview.jpeg' alt='jsdom'/> [jsdom](https://github.com/jsdom/jsdom) – Headless Browsers
-- <img width='25' height='25' src='https://img.stackshare.io/service/9231/default_66c5c1a197dcd0232e41e4ab6299d119b4e165b3.png' alt='Cypress'/> [Cypress](https://www.cypress.io/) – Javascript Testing Framework
-- <img width='25' height='25' src='https://img.stackshare.io/service/9827/octokit-dotnet_2.png' alt='Octokit'/> [Octokit](https://github.com/octokit/octokit.net) – Tools for GitHub
-- <img width='25' height='25' src='https://img.stackshare.io/service/11236/Group_22__3_.png' alt='Dataform'/> [Dataform](https://dataform.co/) – Business Intelligence
-- <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
-- <img width='25' height='25' src='https://img.stackshare.io/service/21547/default_1aeac791cde11ff66cc0b20dcc6144eeb185c905.png' alt='Vite'/> [Vite](https://vitejs.dev/) – JS Build Tools / JS Task Runners
-- <img width='25' height='25' src='https://img.stackshare.io/service/21657/default_6d25db7b303e81b370f739f3ec38bf1d044091e0.jpg' alt='Snowpack'/> [Snowpack](https://www.snowpack.dev/) – JS Build Tools / JS Task Runners
-- <img width='25' height='25' src='https://img.stackshare.io/service/21672/default_0ad016ae73d6ad4ccc280555965665b100054a7e.png' alt='Amazon Elastic Container Registry Public'/> [Amazon Elastic Container Registry Public](https://docs.aws.amazon.com/AmazonECR/latest/public/what-is-ecr.html) – Docker Registry
-- <img width='25' height='25' src='https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg' alt='LangChain'/> [LangChain](https://github.com/hwchase17/langchain) – Large Language Model Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/2773/JuTVEkWX_400x400.jpg' alt='ServiceStack'/> [ServiceStack](https://servicestack.net/) – Frameworks (Full Stack)
+- <img width='25' height='25' src='https://img.stackshare.io/service/2006/spring-framework-project-logo.png' alt='Spring Framework'/> [Spring Framework](https://spring.io/projects/spring-framework) – Frameworks (Full Stack)
+- <img width='25' height='25' src='https://img.stackshare.io/service/2970/wBjKn0ol.png' alt='guava'/> [guava](https://github.com/google/guava) – Java Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg' alt='jQuery'/> [jQuery](http://jquery.com/) – Javascript UI Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/3105/h2-logo_square_400x400.png' alt='H2 Database'/> [H2 Database](http://www.h2database.com/) – Databases
+- <img width='25' height='25' src='https://img.stackshare.io/service/1398/y1As8_s5_400x400.jpg' alt='Liquibase'/> [Liquibase](https://www.liquibase.com) – Database Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/2445/ZKsJsucq_400x400.jpg' alt='MSSQL'/> [MSSQL](https://www.microsoft.com/en-us/sql-server) – Databases
+- <img width='25' height='25' src='https://img.stackshare.io/service/1615/mariadb-logo-400x400.png' alt='MariaDB'/> [MariaDB](https://mariadb.com/) – Databases
+- <img width='25' height='25' src='https://img.stackshare.io/service/1027/sql_server.png' alt='Microsoft SQL Server'/> [Microsoft SQL Server](http://microsoft.com/sqlserver) – Databases
+- <img width='25' height='25' src='https://img.stackshare.io/service/1025/logo-mysql-170x170.png' alt='MySQL'/> [MySQL](http://www.mysql.com) – Databases
+- <img width='25' height='25' src='https://img.stackshare.io/service/1028/ASOhU5xJ.png' alt='PostgreSQL'/> [PostgreSQL](http://www.postgresql.org/) – Databases
 - <img width='25' height='25' src='https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png' alt='pgvector'/> [pgvector](https://github.com/pgvector/pgvector/) – Database Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/21672/default_0ad016ae73d6ad4ccc280555965665b100054a7e.png' alt='Amazon Elastic Container Registry Public'/> [Amazon Elastic Container Registry Public](https://docs.aws.amazon.com/AmazonECR/latest/public/what-is-ecr.html) – Docker Registry
+- <img width='25' height='25' src='https://img.stackshare.io/service/2739/-1wfGjNw.png' alt='Babel'/> [Babel](http://babeljs.io/) – JavaScript Compilers
+- <img width='25' height='25' src='https://img.stackshare.io/service/1725/chai.png' alt='Chai'/> [Chai](http://chaijs.com/) – Javascript Testing Framework
+- <img width='25' height='25' src='https://img.stackshare.io/service/9231/default_66c5c1a197dcd0232e41e4ab6299d119b4e165b3.png' alt='Cypress'/> [Cypress](https://www.cypress.io/) – Javascript Testing Framework
 - <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- <img width='25' height='25' src='https://img.stackshare.io/service/3337/Q4L7Jncy.jpg' alt='ESLint'/> [ESLint](http://eslint.org/) – Code Review
+- <img width='25' height='25' src='https://img.stackshare.io/service/1446/8cyY6D_m.png' alt='Eclipse'/> [Eclipse](https://www.eclipse.org/) – Integrated Development Environment
+- <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/3628/515GX-Cc_400x400.jpg' alt='GlassFish'/> [GlassFish](https://glassfish.java.net) – Web Servers
+- <img width='25' height='25' src='https://img.stackshare.io/service/2188/unnamed.jpg' alt='JBoss'/> [JBoss](https://developers.redhat.com/products/eap) – Web Servers
+- <img width='25' height='25' src='https://img.stackshare.io/service/2020/874086.png' alt='JUnit'/> [JUnit](http://junit.org/) – Testing Frameworks
+- <img width='25' height='25' src='https://img.stackshare.io/service/2804/Coralogix-log4j-integration.jpg' alt='Log4j'/> [Log4j](https://logging.apache.org/log4j/2.x/) – Logging Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/832/mocha.png' alt='Mocha'/> [Mocha](http://mochajs.org/) – Javascript Testing Framework
+- <img width='25' height='25' src='https://img.stackshare.io/service/2021/4y634TJm_400x400.jpg' alt='Mockito'/> [Mockito](https://site.mockito.org/) – Testing Frameworks
+- <img width='25' height='25' src='https://img.stackshare.io/service/9827/octokit-dotnet_2.png' alt='Octokit'/> [Octokit](https://github.com/octokit/octokit.net) – Tools for GitHub
+- <img width='25' height='25' src='https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg' alt='Prettier'/> [Prettier](https://prettier.io/) – Code Review
+- <img width='25' height='25' src='https://img.stackshare.io/service/2805/05518ecaa42841e834421e9d6987b04f_400x400.png' alt='SLF4J'/> [SLF4J](http://slf4j.org/) – Log Management
+- <img width='25' height='25' src='https://img.stackshare.io/service/21657/default_6d25db7b303e81b370f739f3ec38bf1d044091e0.jpg' alt='Snowpack'/> [Snowpack](https://www.snowpack.dev/) – JS Build Tools / JS Task Runners
+- <img width='25' height='25' src='https://img.stackshare.io/service/5326/6p1SNAJu.jpg' alt='Snyk'/> [Snyk](https://snyk.io/) – Dependency Monitoring
+- <img width='25' height='25' src='https://img.stackshare.io/service/21547/default_1aeac791cde11ff66cc0b20dcc6144eeb185c905.png' alt='Vite'/> [Vite](https://vitejs.dev/) – JS Build Tools / JS Task Runners
+- <img width='25' height='25' src='https://img.stackshare.io/service/3411/R_inOTNM_400x400.png' alt='Wildfly'/> [Wildfly](https://www.wildfly.org/) – Web Servers
+- <img width='25' height='25' src='https://img.stackshare.io/service/7054/preview.jpeg' alt='jsdom'/> [jsdom](https://github.com/jsdom/jsdom) – Headless Browsers
+- <img width='25' height='25' src='https://img.stackshare.io/service/4423/zE8RTn9E_400x400.jpg' alt='rollup'/> [rollup](http://rollupjs.org/) – JS Build Tools / JS Task Runners
+- <img width='25' height='25' src='https://img.stackshare.io/service/3276/xWt1RFo6_400x400.jpg' alt='Apache Camel'/> [Apache Camel](https://camel.apache.org/) – Platform as a Service
+- <img width='25' height='25' src='https://img.stackshare.io/service/11236/Group_22__3_.png' alt='Dataform'/> [Dataform](https://dataform.co/) – Business Intelligence
+- <img width='25' height='25' src='https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg' alt='LangChain'/> [LangChain](https://github.com/hwchase17/langchain) – Large Language Model Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
+- <img width='25' height='25' src='https://img.stackshare.io/service/3511/cof_orange_hex.jpg' alt='Ubuntu'/> [Ubuntu](http://www.ubuntu.com/) – Operating Systems
+- <img width='25' height='25' src='https://img.stackshare.io/service/4747/default_82286a88bf01c80539ebd1d6dbea1b25df8af16d.png' alt='i18next'/> [i18next](https://www.i18next.com/) – Translation Service
 
 Full tech stack [here](/techstack.md)
 
@@ -128,7 +128,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [jadenblack/keycloak](https://github.com/jadenblack/keycloak)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|244<br/>Tools used|01/05/24 <br/>Report generated|
+|244<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -860,7 +860,7 @@ Full tech stack [here](/techstack.md)
 |[tslib](https://www.npmjs.com/tslib)|v2.6.2|08/21/23|dependabot[bot] |0BSD|N/A|
 |[url-join](https://www.npmjs.com/url-join)|v5.0.0|02/03/23|Jon Koops |MIT|N/A|
 |[uuid](https://www.npmjs.com/uuid)|v7.0.3|10/19/23|dependabot[bot] |MIT|N/A|
-|[vite](https://www.npmjs.com/vite)|v4.5.0|10/31/23|dependabot[bot] |N/A|[CVE-2023-49293](https://github.com/advisories/GHSA-92r3-m2mg-pj97) (Moderate)|
+|[vite](https://www.npmjs.com/vite)|v4.5.0|10/31/23|dependabot[bot] |N/A|[CVE-2024-23331](https://github.com/advisories/GHSA-c24v-8rfc-w8vw) (High)<br/>[CVE-2023-49293](https://github.com/advisories/GHSA-92r3-m2mg-pj97) (Moderate)|
 
 <br/>
 <div align='center'>
